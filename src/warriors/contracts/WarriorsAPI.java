@@ -1,5 +1,4 @@
 package warriors.contracts;
-
 import java.util.List;
 
 /**
